@@ -10,3 +10,5 @@ Lab-4 https://github.com/NithyaDugyala/GEN-AI--2303A52457-/blob/main/GEN_AI_LAB_
 Lab-5 https://github.com/NithyaDugyala/GEN-AI--2303A52457-/blob/main/GEN_AI_LAB_5.ipynb
 
 Lab-7 https://github.com/NithyaDugyala/GEN-AI--2303A52457-/blob/main/GEN_AI_LAB_7_1.ipynb
+
+Lab -9 https://github.com/NithyaDugyala/GEN-AI--2303A52457-/blob/main/GEN_AI_Lab_9.ipynb
